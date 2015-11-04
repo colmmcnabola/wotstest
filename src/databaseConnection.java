@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class databaseConnection {
 
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	static final String DB_URL = "jdbc:mysql://10.50.15.14/warehourseordertrackingsystem";
+	static final String DB_URL = "jdbc:mysql://10.50.15.14:3306/warehourseordertrackingsystem";
 	static final String USER = "root";
 	static final String PASS = "colm1990";
 	
